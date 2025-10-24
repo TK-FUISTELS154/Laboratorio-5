@@ -44,7 +44,7 @@ laboratorio5/desafio5/src/
 [Main.java](https://github.com/TK-FUISTELS154/Laboratorio-5/blob/main/desafio5/src/main/Main.java)
 
 **Example Image:**
-![Corrida](https://github.com/TK-FUISTELS154/Laboratorio-5/blob/main/Practica%205%20foto.png?raw=true)
+![Corrida](https://github.com/TK-FUISTELS154/Laboratorio-5/blob/main/practica5.png?raw=true)
 
 ---
 
